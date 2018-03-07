@@ -24,8 +24,8 @@ function submitIt() {
     alert('your form is going to be submitted now');
     return;
   }
-  }
-}
+});
+};
 
 
 $(document).ready(function(){
