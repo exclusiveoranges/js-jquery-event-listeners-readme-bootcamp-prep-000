@@ -16,7 +16,7 @@ function pressIt(){
         alert('g was pressed');
     }
   });
-}
+};
 
 function submitIt() {
   $("form").on("submit", function() {
