@@ -25,5 +25,7 @@ getIt()
 
 frameIt()
 
+pressIt()
+
 
 });
