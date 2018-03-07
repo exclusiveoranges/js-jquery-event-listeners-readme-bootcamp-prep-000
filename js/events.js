@@ -25,6 +25,7 @@ function submitIt() {
     return;
   }
 }
+}
 
 
 $(document).ready(function(){
