@@ -25,8 +25,6 @@ function submitIt() {
     return;
   }
   });
-  alert("you entered the wrong value");
-return;
 };
 
 
